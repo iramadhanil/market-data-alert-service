@@ -1,0 +1,7 @@
+python-telegram-bot>=20.0
+yfinance
+requests
+websocket-client
+pandas
+numpy
+python-dotenv
